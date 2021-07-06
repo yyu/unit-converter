@@ -1,3 +1,5 @@
+use unitverse;
+
 fn main() {
-    println!("Hello, world!");
+    println!("F2C: {}", unitverse::farenheit_to_celsius(77.0));
 }

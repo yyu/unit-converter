@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "unit_converter",
+    "unitverse",
+]
