@@ -9,3 +9,6 @@ edition = "2018"
 [dependencies]
 
 unitverse = { path = "../unitverse" }
+
+actix-web = "1.0.8"
+serde = { version = "1.0", features = ["derive"] }
